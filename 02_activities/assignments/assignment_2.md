@@ -10,24 +10,18 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Bad: https://public.tableau.com/app/profile/eleonora.nazander/viz/Colorofthevirus/Dashboard1 
+      based on our discussions in class: the lines were not defined or explained so it was hard to interpret- are they states?; the display was quite visually busy so its hard to decifer the information; lastly the information may be misleading because the purpose was to show proportionality however its not accomplished appropriately: For example the line that goes to around 75%, lets assume that the lines are states, this graph shows 75% of covid deaths in that state are black individuals but it doesnt show the the proportion of black individuals in the state, therefore the death rates could actually be proportional to the number of black individuals in the state. 
 
-
-
-
-
-
+      Good: I liked this one https://public.tableau.com/app/profile/migobs/viz/WorkVisas2025/1 
+      Based on our discussions in class its labeled well, the visual contrast is good and not to crowded, the message is clear and there are clarifying statements explaining definitions. 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Bad: they could inprove it by labeling the lines and axis, by reducing the amount of information- focus on either the states or the USA as a whole and if the idea is disproportionality then that needs to be better conveyed. 
 
-
-
-
-
-
+      Good: I think they could have imporved it by making it a total number rather than a percent compared to 2020 values. Although it was easy to get the idea it can be confusing to look at points in reference to another value. 
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
